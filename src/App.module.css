@@ -1,0 +1,44 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex: 1 1 auto;
+  padding: 50px 20px;
+  background-color: #f8f8f8;
+}
+
+.productDetailsSection {
+  flex: 0 0 250px;
+  height: 100vh;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-right: 20px;
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.chartSection {
+  flex: 1 1 0;
+  background-color: #ffffff;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.tableSection {
+  flex: 1 1 0;
+  background-color: #ffffff;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}

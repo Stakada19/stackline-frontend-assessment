@@ -1,0 +1,11 @@
+.header{
+  height: 24px;
+  background-color: #052849;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 30px;
+}

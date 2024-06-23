@@ -1,0 +1,38 @@
+.tableSection {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+th, td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  color: #6c757d;
+  text-transform: uppercase;
+}
+
+th:hover {
+  background-color: #e0e0e0;
+}
+
+td {
+  font-size: 14px;
+  color: #6c757d;
+}
+
+.sortArrow {
+  margin-left: 5px;
+  vertical-align: middle;
+}

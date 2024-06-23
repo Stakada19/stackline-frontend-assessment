@@ -1,0 +1,13 @@
+.chartSection {
+  padding: 20px;
+  background-color: #ffffff;
+}
+
+.chartTitle {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+.chartContainer {
+  height: 400px;
+}
