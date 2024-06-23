@@ -1,4 +1,4 @@
-# Stacklne Frontend Assessment
+# Stackline Frontend Assessment
 This project is a frontend assessment for Stackline, built using React, Redux, TypeScript, and Chart.js. It fetches and displays sales data in a table and chart format.
 
 ## Requirements
